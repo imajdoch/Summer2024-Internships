@@ -736,11 +736,3 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
-
-## We love our contributors ❤️❤️
-
-Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)!
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
-</a>
-_Made with [contrib.rocks](https://contrib.rocks)._
